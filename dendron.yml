@@ -60,6 +60,7 @@ workspace:
         createTaskSelectionType: selection2link
     graph:
         zoomSpeed: 1
+        createStub: false
     enableAutoCreateOnDefinition: false
     enableHandlebarTemplates: false
     enableXVaultWikiLink: false
